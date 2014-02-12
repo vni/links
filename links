@@ -148,3 +148,27 @@ Andru Luvisi, his sl3.c - A minimal Lisp Interpreter, and deriviatives from sl3:
 http://www.sonoma.edu/users/l/luvisi/
 http://www.sonoma.edu/users/l/luvisi/sl3.c
 https://github.com/kristianlm/small-lisp
+
+CSE 582 - Compiler Construction:
+http://courses.cs.washington.edu/courses/cse582/
+http://courses.cs.washington.edu/courses/cse582/99su/lectures/scanner.html
+http://courses.cs.washington.edu/courses/cse582/99su/
+http://courses.cs.washington.edu/courses/cse582/99su/lectures/intro.html
+http://courses.cs.washington.edu/courses/cse582/99su/project/index.html
+http://courses.cs.washington.edu/courses/cse582/99su/x86/index.html
+
+modern compiler implementation in Java:
+http://www.cs.princeton.edu/~appel/modern/java/
+
+modern compiler implementation in C:
+http://www.cs.princeton.edu/~appel/modern/c/
+
+8051 asm lexer-example.asm:
+http://www.pjrc.com/tech/8051/lexer-example.asm
+
+LLVM compiler infrastructure: Tutorial: Table of Contents:
+http://llvm.org/docs/tutorial/index.html
+
+Itay Maman and Simple Lexical Scanner in Java:
+http://www.cs.technion.ac.il/~imaman/
+http://www.cs.technion.ac.il/~imaman/programs/lexer.html
