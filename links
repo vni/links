@@ -157,6 +157,37 @@ http://courses.cs.washington.edu/courses/cse582/99su/lectures/intro.html
 http://courses.cs.washington.edu/courses/cse582/99su/project/index.html
 http://courses.cs.washington.edu/courses/cse582/99su/x86/index.html
 
+Compiler Constructions (some slides):
+http://www.iis.sinica.edu.tw/~tshsu/compiler2005/
+http://www.iis.sinica.edu.tw/~tshsu/compiler/index.html
+
+Tsan-sheng Hsu, Ph.D. (compilers)
+http://www.iis.sinica.edu.tw/~tshsu/
+
+CS421/521: Compilers and Interpreters, Yale University:
+http://flint.cs.yale.edu/cs421/lectureNotes/
+
+Eitan M. Gurari (yet one with lecture notes):
+http://www.cse.ohio-state.edu/~gurari/
+
+http://www.cs.nccu.edu/~melikyan/cs_prl/lect/index.html
+http://www.cs.nccu.edu/~melikyan/cs_prl/
+
+CA448 - Compiler Construction 1:
+http://www.computing.dcu.ie/~hamilton/teaching/CA448/
+
+Compiler Construction/Syntax Analysis (from wikipedia and wikibooks):
+http://en.wikibooks.org/wiki/Compiler_Construction/Syntax_Analysis
+http://en.wikipedia.org/wiki/Recursive_descent_parser
+
+Basic Compiling Theory:
+http://www.cse.msu.edu/rgroups/sens/Software/Telelogic-3.5/locale/english/help/htmlhlp/comptheory.html
+
+Parsing Techniques. A Practical Guide. Second Edition:
+http://dickgrune.com/Books/PTAPG_2nd_Edition/
+
+http://www.cs.arizona.edu/classes/
+
 modern compiler implementation in Java:
 http://www.cs.princeton.edu/~appel/modern/java/
 
@@ -178,3 +209,6 @@ http://www.pdfbooksplanet.org/
 
 C++ Programming Language and books:
 stroustrup.com
+
+Compiler Creation, Parser (Syntax Analyzer):
+http://www.geocities.ws/shaileshpandeynec/
