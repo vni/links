@@ -262,3 +262,6 @@ Links to some interesting topics on the net. Grab it to read at home.
 
 ### Sonic Geometry:
 * http://www.sonicgeometry.com/
+
+### Лекции от Яндекса для тех, кто хочет провести каникулы с пользой. Дискретный анализ и теория вероятностей
+* http://habrahabr.ru/company/yandex/blog/208120/
