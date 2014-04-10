@@ -248,3 +248,18 @@ http://www.linuxquestions.org/questions/linux-kernel-70/list-of-linux-kernel-dev
 
 ONLINE COURCES:
 http://dou.ua/lenta/articles/online-studying-platforms/?from=comment-digest&utm_source=transactional&utm_medium=email&utm_campaign=digest-comments
+
+432Hz Music:
+http://oursolaris.blogspot.com/
+http://youenergy.ru/denis-bortko-osoznannost-klyuch-k-uspexu/
+http://oursolaris.blogspot.com/2013/12/my-journey-returning-back-to-432-hz.html
+http://www.medicalveritas.org/MedicalVeritas/Musical_Cult_Control.html
+https://www.youtube.com/channel/UCC7mWggFWPoacTWhq-6bjPA
+http://www.collective-evolution.com/2013/12/21/heres-why-you-should-convert-your-music-to-432hz/
+
+Агрокультура:
+http://agnikultur-ru.weebly.com/
+http://agniculture-en.weebly.com/
+
+Sonic Geometry:
+http://www.sonicgeometry.com/
