@@ -257,11 +257,15 @@ Links to some interesting topics on the net. Grab it to read at home.
 * http://www.collective-evolution.com/2013/12/21/heres-why-you-should-convert-your-music-to-432hz/
 
 ### Агрокультура:
-* http://agnikultur-ru.weebly.com/
-* http://agniculture-en.weebly.com/
+* [agnikultur ru](http://agnikultur-ru.weebly.com/)
+* [agnikultur en](http://agniculture-en.weebly.com/)
 
 ### Sonic Geometry:
-* http://www.sonicgeometry.com/
+* [Sonic Geometry](http://www.sonicgeometry.com/)
 
 ### Лекции от Яндекса для тех, кто хочет провести каникулы с пользой. Дискретный анализ и теория вероятностей
-* http://habrahabr.ru/company/yandex/blog/208120/
+* [habrahabr.ru](http://habrahabr.ru/company/yandex/blog/208120/)
+
+### Online Project examples
+I just liked the theme of the page (CSS)
+* [](http://shlomif-tech.livejournal.com/66477.html)
