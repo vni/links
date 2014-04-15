@@ -268,4 +268,4 @@ Links to some interesting topics on the net. Grab it to read at home.
 
 ### Online Project examples
 I just liked the theme of the page (CSS)
-* [](http://shlomif-tech.livejournal.com/66477.html)
+* [shlomif-tech.livejournal.com](http://shlomif-tech.livejournal.com/66477.html)
