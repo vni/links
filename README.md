@@ -249,12 +249,12 @@ Links to some interesting topics on the net. Grab it to read at home.
 * http://dou.ua/lenta/articles/online-studying-platforms/?from=comment-digest&utm_source=transactional&utm_medium=email&utm_campaign=digest-comments
 
 ### 432Hz Music:
-* http://oursolaris.blogspot.com/
-* http://youenergy.ru/denis-bortko-osoznannost-klyuch-k-uspexu/
-* http://oursolaris.blogspot.com/2013/12/my-journey-returning-back-to-432-hz.html
-* http://www.medicalveritas.org/MedicalVeritas/Musical_Cult_Control.html
-* https://www.youtube.com/channel/UCC7mWggFWPoacTWhq-6bjPA
-* http://www.collective-evolution.com/2013/12/21/heres-why-you-should-convert-your-music-to-432hz/
+* (http://oursolaris.blogspot.com/)
+* (http://youenergy.ru/denis-bortko-osoznannost-klyuch-k-uspexu/)
+* (http://oursolaris.blogspot.com/2013/12/my-journey-returning-back-to-432-hz.html)
+* (http://www.medicalveritas.org/MedicalVeritas/Musical_Cult_Control.html)
+* (https://www.youtube.com/channel/UCC7mWggFWPoacTWhq-6bjPA)
+* (http://www.collective-evolution.com/2013/12/21/heres-why-you-should-convert-your-music-to-432hz/)
 
 ### Агрокультура:
 * [agnikultur ru](http://agnikultur-ru.weebly.com/)
@@ -269,3 +269,6 @@ Links to some interesting topics on the net. Grab it to read at home.
 ### Online Project examples
 I just liked the theme of the page (CSS)
 * [shlomif-tech.livejournal.com](http://shlomif-tech.livejournal.com/66477.html)
+
+### MIT 6.828: Operating System Engineering
+* [MIT 6.828 Operating System Engineering](http://pdos.csail.mit.edu/6.828/2012/readings/)
