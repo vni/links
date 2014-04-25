@@ -271,4 +271,5 @@ I just liked the theme of the page (CSS)
 * [shlomif-tech.livejournal.com](http://shlomif-tech.livejournal.com/66477.html)
 
 ### MIT 6.828: Operating System Engineering
-* [MIT 6.828 Operating System Engineering](http://pdos.csail.mit.edu/6.828/2012/readings/)
+* [MIT 6.828 Home](http://pdos.csail.mit.edu/6.828/2012/index.html)
+* [MIT 6.828 FTP with books](http://pdos.csail.mit.edu/6.828/2012/readings/)
