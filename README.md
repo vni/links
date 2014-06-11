@@ -273,3 +273,6 @@ I just liked the theme of the page (CSS)
 ### MIT 6.828: Operating System Engineering
 * [MIT 6.828 Home](http://pdos.csail.mit.edu/6.828/2012/index.html)
 * [MIT 6.828 FTP with books](http://pdos.csail.mit.edu/6.828/2012/readings/)
+
+### i8008
+* [i8080 opcode reference card](http://www.pastraiser.com/cpu/i8080/i8080_opcodes.html)
